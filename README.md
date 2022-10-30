@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixtemikotan
 - 👀 I’m interested in Programming and research
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I currently code Node.js and React Apps
 - 💞️ I’m looking to collaborate on Node.js and React projects that are worthwhile
 - 📫 How to reach me felixtemikotan@yahoo.com
 
